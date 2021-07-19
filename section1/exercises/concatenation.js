@@ -53,7 +53,7 @@ var catapult = "the irons"
 var sniper = "the putter" 
 var dialed = "he made birdie and was overly confident so he pumped his next drive into the woods on the left never to find the golf ball"
 
-console.log("to begin he took" + bigStick + "out of his bad and pumped one into the fairway. Then he used" + catapult + "to stick it 4 feet from the hole. All that was left was to use" + sniper + "to finish off the hole." + dialed +)
+console.log("to begin he took" + bigStick + "out of his bag and pumped one into the fairway. Then he used" + catapult + "to stick it 4 feet from the hole. All that was left was to use" + sniper + "to finish off the hole." + dialed +)
 
 
 //-------------------
