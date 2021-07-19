@@ -38,16 +38,23 @@ if (bearChoice === 1) {
 Questions
 
 1. In English, using technical vocabulary, describe what is happening between lines 14 and 18.
+There is a Strict Equality Check happening due to the ===. Also stating that if the Bear uses Door 1 he will have a hat. All other choices lead to scarf. 
 
 2. What variable has a new value assigned to it after the first if statement executes?
+Variable is assigned to a Hat if the bear chooses door #1. 
 
 3. If you changed the variable doorChoice to equal 3, what would the bearClothing value be?
+The bear would be wearing a scarf. 
 
 4. In English, using technical vocabulary, describe what is happening between lines lines 27 and 35.
+First off. Don't run, that is terrible.  
+The Code is creating a string comparison I think. It is offering different outcomes based on different inputs. 
 
 5. If you changed the variable bearChoice to equal 3, what will be the final outcome be?
+The worst one, you will end up in a room full of snakes. 
 
 6. If you changed the variable doorChoice to equal 1, and the variable bearChoice to equal 2, what will be the final outcome be?
+The bear will have a hat, you will tell the bear the hat is too small and the bear will cry. 
 
 7. What is your favorite ending?
-*/
+*/('Definitely the Secret Passage', bearChoice === 1)
